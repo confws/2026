@@ -38,9 +38,9 @@ locale: en-US
 title_separator: "-"
 name: 28th International Workshop on Configuration (ConfWS'26)
 description: Website of the 28th International Workshop on Configuration (ConfWS'26)
-url: https://confws.github.io
+url: https://confws.github.io/2026
 baseurl: 
-repository: confws/confws.github.io
+repository: confws/2026
 teaser: 
 logo: 'assets/confws/ConfWS_2026_Logo.png'
 #masthead_title: ConfWS 2024
